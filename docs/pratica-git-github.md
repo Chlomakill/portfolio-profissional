@@ -11,7 +11,7 @@ Demonstrar o uso de branches, commits e Pull Requests em um repositório de port
 1. A branch principal do projeto é `main`.
 2. Foi criada a branch `melhorias-portfolio` a partir da `main` para trabalhar separadamente.
 3. Esta documentação foi adicionada na branch de melhorias em um commit próprio.
-4. A branch será comparada com a `main) por meio de um Pull Request.
+4. A branch será comparada com a `main` por meio de um Pull Request.
 5. Após a revisão, as alterações poderão ser integradas à branch principal por merge.
 
 ## Conceitos
